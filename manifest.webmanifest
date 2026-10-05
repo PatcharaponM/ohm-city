@@ -1,0 +1,26 @@
+{
+ "name": "OHM CITY Link",
+ "short_name": "OHM CITY",
+ "description": "แอปคู่หูเกมกระดาน OHM CITY (ออฟไลน์ได้)",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#13263F",
+ "theme_color": "#13263F",
+ "lang": "th",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
